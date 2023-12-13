@@ -70,7 +70,7 @@ namespace GA_horario_C_sharp_001
                 numero_de_cursos = h1.obtenerCantidadDeElementosDeDataTable(aux_Tabla_cursos);  //<---ESTO SOLO ES PARA TENER UN NUMERO MANEJABLE DE CURTOS Y TEST --QUITAR ANTES DE ENTREGAR FINAL!!!!! 
                 numero_de_materias = h1.obtenerCantidadDeElementosDeDataTable2(aux_Tabla_materias);//<---ESTO SOLO ES PARA TENER UN NUMERO MANEJABLE DE CURTOS Y TEST --QUITAR ANTES DE ENTREGAR FINAL!!!!! 
 
-                //////////////////////////////////////////////////Tablas aqui////////////////////////////////////////////////////////////////////
+                //////////////////////////////////////////////////Tablas aqui/  ///////////////////////////////////////////////////////////////////
 
                 // Simulación de una colección de objetos con los datos de horarios
                 List<object> individuos = new List<object>
